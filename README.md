@@ -1,0 +1,2 @@
+## Graph
+This is hacking code of GitHub contribution graph. Which is generate all or declared contribution point fill with green dots. That means it's make a fake graph of contribution that the user pushed code everyday.
